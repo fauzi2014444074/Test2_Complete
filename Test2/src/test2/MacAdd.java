@@ -42,7 +42,7 @@ public class MacAdd {
                         System.out.println("ipv6 address is :" + ipv6.getHostAddress());
                     else 
                         System.out.println("ipv4 address is :" + ipv6.getHostAddress());
-       
+                
                }
 			
 	} catch (UnknownHostException e) {
